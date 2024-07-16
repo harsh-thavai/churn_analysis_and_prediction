@@ -5,15 +5,14 @@ This project delves deep into customer churn analysis for a telecommunications c
 
 ## Table of Contents
 1. [Key Achievements](#key-achievements)
-2. [Installation](#installation)
-3. [Data Overview](#data-overview)
-4. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-5. [Feature Engineering](#feature-engineering)
-6. [Model Development](#model-development)
-7. [Results and Insights](#results-and-insights)
-8. [Future Work](#future-work)
-9. [Contributing](#contributing)
-10. [License](#license)
+2. [Data Overview](#data-overview)
+3. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+4. [Feature Engineering](#feature-engineering)
+5. [Model Development](#model-development)
+6. [Results and Insights](#results-and-insights)
+7. [Future Work](#future-work)
+8. [Contributing](#contributing)
+9. [License](#license)
 
 ## Key Achievements
 - Developed a high-performance churn prediction model with 94% accuracy and F1 score
