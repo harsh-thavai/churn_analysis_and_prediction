@@ -10,8 +10,7 @@ This project delves deep into customer churn analysis for a telecommunications c
 4. [Feature Engineering](#feature-engineering)
 5. [Model Development](#model-development)
 6. [Results and Insights](#results-and-insights)
-7. [Future Work](#future-work)
-8. [License](#license)
+7. [License](#license)
 
 ## Key Achievements
 - Developed a high-performance churn prediction model with 94% accuracy and F1 score
