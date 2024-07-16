@@ -11,8 +11,7 @@ This project delves deep into customer churn analysis for a telecommunications c
 5. [Model Development](#model-development)
 6. [Results and Insights](#results-and-insights)
 7. [Future Work](#future-work)
-8. [Contributing](#contributing)
-9. [License](#license)
+8. [License](#license)
 
 ## Key Achievements
 - Developed a high-performance churn prediction model with 94% accuracy and F1 score
@@ -68,10 +67,6 @@ Key factors influencing churn, in order of importance:
 4. Monthly charges
 5. Lack of online security and tech support
 6. Internet service type (fiber optic customers showing higher churn)
-
-
-## Contributing
-We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to submit pull requests, report issues, or request features.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
