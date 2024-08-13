@@ -1,5 +1,8 @@
 # Customer Churn Analysis and Prediction
 
+![image](https://github.com/user-attachments/assets/7e603592-6cc0-4dea-8e00-396f10a65e56)
+
+
 ## Project Overview
 This project delves deep into customer churn analysis for a telecommunications company, leveraging advanced data analysis techniques and machine learning. Our goal is twofold: to accurately predict which customers are at risk of churning and to uncover the key factors driving customer churn. Through extensive Exploratory Data Analysis (EDA) and the application of state-of-the-art machine learning models, we've developed a highly accurate predictive model and gained valuable insights into customer behavior.
 
